@@ -1,6 +1,8 @@
 # Mytod
 
-**TODO: Add description**
+ToD Server that's RFC868 compliant.
+
+Currently runs on port 3787 intead of standard 37 so you can run as normal user.
 
 ## Installation
 
