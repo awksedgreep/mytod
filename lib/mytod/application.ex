@@ -10,6 +10,7 @@ defmodule Mytod.Application do
     children = [
       # Starts a worker by calling: Mytod.Worker.start_link(arg)
       # {Mytod.Worker, arg}
+      {Mytod, []}
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
