@@ -1,6 +1,6 @@
 # Mytod
 
-ToD Server that's RFC868 compliant.
+ToD Server that's RFC868 compliant.  This is just a test repo.
 
 Currently runs on port 3787 intead of standard 37 so you can run as normal user.
 
